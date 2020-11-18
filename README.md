@@ -16,7 +16,7 @@ FROM
 	user A
 LEFT JOIN 
 	user B
-ON A.Parent = b.id
+ON A.Parent = B.id
 ```
 
 ##### 2. Omdbapi Project
